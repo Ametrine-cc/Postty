@@ -1,0 +1,15 @@
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.AssemblyInfoInputs.cache
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.AssemblyInfo.cs
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.csproj.CoreCompileInputs.cache
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.sourcelink.json
+/home/noticxs/Projects/Postty/bin/Debug/net9.0/Postty
+/home/noticxs/Projects/Postty/bin/Debug/net9.0/Postty.deps.json
+/home/noticxs/Projects/Postty/bin/Debug/net9.0/Postty.runtimeconfig.json
+/home/noticxs/Projects/Postty/bin/Debug/net9.0/Postty.dll
+/home/noticxs/Projects/Postty/bin/Debug/net9.0/Postty.pdb
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.dll
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/refint/Postty.dll
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.pdb
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/Postty.genruntimeconfig.cache
+/home/noticxs/Projects/Postty/obj/Debug/net9.0/ref/Postty.dll
